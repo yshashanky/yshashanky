@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on React based applications and automation scripts.
+- 🔭 I’m currently working on React based applications and API automation scripts.
 - 🌱 I’m currently learning more and in dept about React.
 - 📫 Reach me [here](mailto:shashankyadav.1299@gmail.com?subject=[GitHub]%20Source%20Han%20Sans).
 
