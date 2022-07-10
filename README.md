@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on React based applications and automation scripts.
+- 🌱 I’m currently learning more and in dept about React.
+- 📫 Reach me [here](mailto:shashankyadav.1299@gmail.com?subject=[GitHub]%20Source%20Han%20Sans).
+
+**Have fun building!** 🚀
+
 <!--
 **yshashanky/yshashanky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
