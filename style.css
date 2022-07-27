@@ -9,6 +9,27 @@ body {
   margin: 0px;
 }
 
+h1 {
+  font-size: 8vw;
+}
+
+@media only screen and (min-width: 375px) {
+  h1 {
+    font-size: 30px;
+  }
+}
+
+.aboutMe {
+  background-color: rgba(2, 1, 0, 0.15);
+  backdrop-filter: blur(81.5485px);
+  border-radius: 10px;
+}
+
+.projects {
+  background-color: rgba(2, 1, 0, 0.15);
+  backdrop-filter: blur(81.5485px);
+  border-radius: 10px;
+}
 /* Beige: #c8b7a6
 
 Perriwinkle: #7d94b5
