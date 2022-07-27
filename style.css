@@ -9,6 +9,8 @@ body {
   margin: 0px;
 }
 
+/* 8vw=30px */
+
 h1 {
   font-size: 8vw;
 }
@@ -23,6 +25,7 @@ h1 {
   background-color: rgba(2, 1, 0, 0.15);
   backdrop-filter: blur(81.5485px);
   border-radius: 10px;
+  margin-bottom: 10px;
 }
 
 .projects {
@@ -30,6 +33,7 @@ h1 {
   backdrop-filter: blur(81.5485px);
   border-radius: 10px;
 }
+
 /* Beige: #c8b7a6
 
 Perriwinkle: #7d94b5
